@@ -1,0 +1,11 @@
+UserConfig Input 
+  ↓
+Structure Validation
+  ↓
+Active Status Check
+  ↓ (if inactive)
+Error Response
+  ↓ (if active)
+Email Normalization
+  ↓
+Formatted Success Response
